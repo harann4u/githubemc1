@@ -1,1 +1,2 @@
 Created text3.txt file
+Modifed the file
